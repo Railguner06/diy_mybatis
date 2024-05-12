@@ -4,6 +4,9 @@ import org.example.mybatis.mapping.MappedStatement;
 import org.example.mybatis.session.Configuration;
 import org.example.mybatis.session.SqlSession;
 
+/**
+ * 默认SqlSession实现类
+ */
 public class DefaultSqlSession implements SqlSession {
 
     private Configuration configuration;

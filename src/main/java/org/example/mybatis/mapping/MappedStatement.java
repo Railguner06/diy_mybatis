@@ -4,6 +4,9 @@ import org.example.mybatis.session.Configuration;
 
 import java.util.Map;
 
+/**
+ * 映射语句类
+ */
 public class MappedStatement {
 
     private Configuration configuration;

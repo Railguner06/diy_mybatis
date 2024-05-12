@@ -4,6 +4,9 @@ import org.example.mybatis.session.Configuration;
 import org.example.mybatis.session.SqlSession;
 import org.example.mybatis.session.SqlSessionFactory;
 
+/**
+ * 默认的 DefaultSqlSessionFactory
+ */
 public class DefaultSqlSessionFactory implements SqlSessionFactory {
 
     private final Configuration configuration;

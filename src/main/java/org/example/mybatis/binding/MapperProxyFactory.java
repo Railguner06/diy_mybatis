@@ -8,7 +8,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * 代理类工厂
+ * 映射器代理类工厂
  * @param <T>
  */
 public class MapperProxyFactory<T> {

@@ -20,6 +20,9 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * XML配置构建器，建造者模式，继承BaseBuilder
+ */
 public class XMLConfigBuilder extends BaseBuilder {
 
     private Element root;

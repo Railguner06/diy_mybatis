@@ -7,6 +7,9 @@ import org.example.mybatis.session.SqlSession;
 
 import java.lang.reflect.Method;
 
+/**
+ * 映射器方法
+ */
 public class MapperMethod {
 
     private final SqlCommand command;

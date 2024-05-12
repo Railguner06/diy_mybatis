@@ -6,6 +6,9 @@ import org.example.mybatis.mapping.MappedStatement;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * 配置项
+ */
 public class Configuration {
 
     /**
